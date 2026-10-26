@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blumalh.github.io/www-app-jiuyouweb-com-cn/sitemap.xml
